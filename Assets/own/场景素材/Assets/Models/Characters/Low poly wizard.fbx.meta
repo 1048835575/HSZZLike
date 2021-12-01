@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: aaf4e94687cee3c4ab81a12581bd9a82
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chest
+    100002: foot.L
+    100004: foot.L_end
+    100006: foot.R
+    100008: foot.R_end
+    100010: forearm.L
+    100012: forearm.L.001
+    100014: forearm.L.001_end
+    100016: forearm.R
+    100018: forearm.R.001
+    100020: forearm.R.001_end
+    100022: hand.L
+    100024: hand.L_end
+    100026: hand.R
+    100028: hand.R_end
+    100030: Hat
+    100032: head
+    100034: head_end
+    100036: hips
+    100038: //RootNode
+    100040: neck
+    100042: shin.L
+    100044: shin.R
+    100046: shoulder.L
+    100048: shoulder.R
+    100050: Spear
+    100052: spine
+    100054: thigh.L
+    100056: thigh.R
+    100058: upper_arm.L
+    100060: upper_arm.R
+    100062: wizard mesh
+    100064: wizard rig
+    400000: chest
+    400002: foot.L
+    400004: foot.L_end
+    400006: foot.R
+    400008: foot.R_end
+    400010: forearm.L
+    400012: forearm.L.001
+    400014: forearm.L.001_end
+    400016: forearm.R
+    400018: forearm.R.001
+    400020: forearm.R.001_end
+    400022: hand.L
+    400024: hand.L_end
+    400026: hand.R
+    400028: hand.R_end
+    400030: Hat
+    400032: head
+    400034: head_end
+    400036: hips
+    400038: //RootNode
+    400040: neck
+    400042: shin.L
+    400044: shin.R
+    400046: shoulder.L
+    400048: shoulder.R
+    400050: Spear
+    400052: spine
+    400054: thigh.L
+    400056: thigh.R
+    400058: upper_arm.L
+    400060: upper_arm.R
+    400062: wizard mesh
+    400064: wizard rig
+    2100000: wizard cape
+    2100002: Wizard spear
+    2100004: Wizard spear 1
+    2100006: Wizard arms
+    2100008: Wizard shirt
+    2100010: Wizard pants
+    2100012: Wizard boots
+    2100014: Wizard
+    2300000: Hat
+    2300002: Spear
+    3300000: Hat
+    3300002: Spear
+    4300000: Hat
+    4300002: Spear
+    4300004: wizard mesh
+    7400000: wizard rig|Attacking
+    7400002: wizard rig|Die
+    7400004: wizard rig|Idle
+    7400006: wizard rig|Running
+    7400008: wizard rig|Spawning
+    9500000: //RootNode
+    13700000: wizard mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

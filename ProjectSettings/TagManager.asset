@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Battle ground
+  - Flag
+  - enemy
+  - KNight
+  - EnemyMainTowerS
+  - EnemyMainTowerZ
+  - MainTowerX
+  - MainTowerZ
+  - Tower
+  - MainTowerS
+  - Plane s
+  - Plane z
+  - Plane x
+  - EnemyTower
+  - EnemyMainTowerX
+  - EnemyKnight
+  - left_ta
+  - right_ta
+  - EnemyMainTower
+  - MainTower
+  - right_jidi
+  - left_jidi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - MapCube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

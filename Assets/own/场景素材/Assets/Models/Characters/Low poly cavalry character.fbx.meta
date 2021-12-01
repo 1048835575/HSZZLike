@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 18681926d0312fa45831df543dd42f1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chest
+    100002: foot.L
+    100004: foot.L_end
+    100006: foot.R
+    100008: foot.R_end
+    100010: forearm.L
+    100012: forearm.L.001
+    100014: forearm.L.001_end
+    100016: forearm.R
+    100018: forearm.R.001
+    100020: forearm.R.001_end
+    100022: hand.L
+    100024: hand.L_end
+    100026: hand.R
+    100028: hand.R_end
+    100030: head
+    100032: head_end
+    100034: hips
+    100036: knight helmet
+    100038: knight lance
+    100040: knight mesh
+    100042: knight rig
+    100044: knight shield
+    100046: //RootNode
+    100048: neck
+    100050: shin.L
+    100052: shin.R
+    100054: shoulder.L
+    100056: shoulder.R
+    100058: spine
+    100060: thigh.L
+    100062: thigh.R
+    100064: upper_arm.L
+    100066: upper_arm.R
+    400000: chest
+    400002: foot.L
+    400004: foot.L_end
+    400006: foot.R
+    400008: foot.R_end
+    400010: forearm.L
+    400012: forearm.L.001
+    400014: forearm.L.001_end
+    400016: forearm.R
+    400018: forearm.R.001
+    400020: forearm.R.001_end
+    400022: hand.L
+    400024: hand.L_end
+    400026: hand.R
+    400028: hand.R_end
+    400030: head
+    400032: head_end
+    400034: hips
+    400036: knight helmet
+    400038: knight lance
+    400040: knight mesh
+    400042: knight rig
+    400044: knight shield
+    400046: //RootNode
+    400048: neck
+    400050: shin.L
+    400052: shin.R
+    400054: shoulder.L
+    400056: shoulder.R
+    400058: spine
+    400060: thigh.L
+    400062: thigh.R
+    400064: upper_arm.L
+    400066: upper_arm.R
+    2100000: knight helmet 1
+    2100002: knight helmet
+    2100004: Shield cavalry
+    2100006: lance metal
+    2100008: lance gold
+    2100010: lance front
+    2100012: lance
+    2100014: knight chain mail
+    2100016: knight shirt
+    2100018: knight skin
+    2100020: knight boots
+    2300000: knight helmet
+    2300002: knight lance
+    2300004: knight shield
+    3300000: knight helmet
+    3300002: knight lance
+    3300004: knight shield
+    4300000: knight helmet
+    4300002: knight shield
+    4300004: knight lance
+    4300006: knight mesh
+    7400000: knight rig|Character attacking
+    7400002: knight rig|Character running
+    7400004: knight rig|Die
+    7400006: knight rig|Idle
+    7400008: knight rig|Running.001
+    7400010: knight shield|Running.001
+    7400012: knight lance|Running.001
+    7400014: knight helmet|Running.001
+    7400016: knight mesh|Running.001
+    9500000: //RootNode
+    13700000: knight mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

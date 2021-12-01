@@ -1,0 +1,131 @@
+﻿[
+  {
+    "id": 0,
+    "title": "雷电法师",
+    "wastage": 4,
+    "description": "会打雷的法师",
+    "madeby": "通过抽取宝箱获取！",
+    "image": "dianfa"
+  },
+  {
+    "id": 1,
+    "title": "三个火枪手",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "sanpao"
+  },
+  {
+    "id": 2,
+    "title": "亚索",
+    "wastage": 3,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "YaSuo"
+  },
+  {
+    "id": 6,
+    "title": "冰冻法术",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "Sona"
+  },
+  {
+    "id": 8,
+    "title": "雷电法术",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "MasterYi"
+  },
+  {
+    "id": 5,
+    "title": "大胡子",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "dahuzi"
+  },
+  {
+    "id": 3,
+    "title": "大皮卡",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "dapika"
+  },
+  {
+    "id": 7,
+    "title": "火箭",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "Karthus"
+  },
+  {
+    "id": 4,
+    "title": "火球",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "huoqiu"
+  },
+  {
+    "id": 9,
+    "title": "狂暴",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "Ahri"
+  },
+  {
+    "id": 10,
+    "title": "女战士",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+  },
+  {
+    "id": 11,
+    "title": "骑士",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+  },
+  {
+    "id": 12,
+    "title": "小闪电",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+  },
+  {
+    "id": 13,
+    "title": "小皮卡",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+  },
+  {
+    "id": 14,
+    "title": "岩浆",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+
+  },
+  {
+    "id": 15,
+    "title": "弓箭",
+    "wastage": 7,
+    "description": "扛着火炮的神枪手",
+    "madeby": "升级后自动获取！",
+    "image": "ui (2) 1"
+  }
+]

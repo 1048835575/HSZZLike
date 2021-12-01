@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 5842fdb1fb557b8409dcb9e3d8772d45
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: archer arrow holder
+    100002: archer bow
+    100004: archer mesh
+    100006: archer rig
+    100008: arrow
+    100010: chest
+    100012: foot.L
+    100014: foot.L_end
+    100016: foot.R
+    100018: foot.R_end
+    100020: forearm.L
+    100022: forearm.L.001
+    100024: forearm.L.001_end
+    100026: forearm.R
+    100028: forearm.R.001
+    100030: forearm.R.001_end
+    100032: hand.L
+    100034: hand.L_end
+    100036: hand.R
+    100038: hand.R_end
+    100040: head
+    100042: head_end
+    100044: hips
+    100046: //RootNode
+    100048: neck
+    100050: shin.L
+    100052: shin.R
+    100054: shoulder.L
+    100056: shoulder.R
+    100058: spine
+    100060: thigh.L
+    100062: thigh.R
+    100064: upper_arm.L
+    100066: upper_arm.R
+    400000: archer arrow holder
+    400002: archer bow
+    400004: archer mesh
+    400006: archer rig
+    400008: arrow
+    400010: chest
+    400012: foot.L
+    400014: foot.L_end
+    400016: foot.R
+    400018: foot.R_end
+    400020: forearm.L
+    400022: forearm.L.001
+    400024: forearm.L.001_end
+    400026: forearm.R
+    400028: forearm.R.001
+    400030: forearm.R.001_end
+    400032: hand.L
+    400034: hand.L_end
+    400036: hand.R
+    400038: hand.R_end
+    400040: head
+    400042: head_end
+    400044: hips
+    400046: //RootNode
+    400048: neck
+    400050: shin.L
+    400052: shin.R
+    400054: shoulder.L
+    400056: shoulder.R
+    400058: spine
+    400060: thigh.L
+    400062: thigh.R
+    400064: upper_arm.L
+    400066: upper_arm.R
+    2100000: archer arrow
+    2100002: archer arrow 2
+    2100004: archer arrow 1
+    2100006: archer arrow holder
+    2100008: archer bow
+    2100010: archer bow grip
+    2100012: archer bow 1
+    2100014: archer chain mail
+    2100016: archer shirt
+    2100018: knight skin
+    2100020: knight boots
+    2300000: archer arrow holder
+    2300002: archer bow
+    2300004: arrow
+    3300000: archer arrow holder
+    3300002: archer bow
+    3300004: arrow
+    4300000: archer arrow holder
+    4300002: archer bow
+    4300004: archer mesh
+    4300006: arrow
+    7400000: archer rig|Attacking
+    7400002: archer rig|Die
+    7400004: archer rig|Idle
+    7400006: archer rig|Running
+    9500000: //RootNode
+    13700000: archer mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
